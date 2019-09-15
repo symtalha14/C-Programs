@@ -1,0 +1,61 @@
+[33mcommit 8838f422a19a0da0b1d7cd73e84d272a3d910ab7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Tue Apr 23 20:58:00 2019 +0530
+
+    Matrices , pointers
+
+[33mcommit d24e9b0bb68c56809edf5376c39b50a10098025b[m
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Mon Apr 22 17:26:39 2019 +0530
+
+    new C programs
+
+[33mcommit 5062bbf2d6b88fb6939392cd14f25ce1ffc7e0bd[m
+Merge: ffb22c4 2a9e238
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Thu Apr 18 00:12:12 2019 +0530
+
+    Merge branch 'master' of https://github.com/symtalha14/C-Programs
+
+[33mcommit 2a9e238acac8e0c521729ba4625218218d558444[m
+Author: Talha <syedtalha5314@gmail.com>
+Date:   Thu Apr 18 00:10:21 2019 +0530
+
+    Create README.md
+
+[33mcommit ffb22c4e4ecb744db2a8f823abb0e08d31b0ac2e[m
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Thu Apr 18 00:04:38 2019 +0530
+
+    Upto 50th Program
+
+[33mcommit 7a74dfb9f90f58767270a4582f15cd958c07c06f[m
+Merge: acd5dc2 5ca77ed
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Wed Apr 17 23:34:50 2019 +0530
+
+    Merge branch 'master' of https://github.com/symtalha14/C-Programs
+
+[33mcommit acd5dc2d828398bf3800ee64f8053c6f0911eb74[m
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Wed Apr 17 23:27:58 2019 +0530
+
+    Programs 45,46,48
+
+[33mcommit 5ca77edd131bcde27fb46f92452a91f4f71dc237[m
+Author: Talha <syedtalha5314@gmail.com>
+Date:   Wed Apr 17 21:18:41 2019 +0530
+
+    Output Not As Expected
+
+[33mcommit 26e58525221000c9f539124dc3f6f570f537dc4f[m
+Author: Talha <syedtalha5314@gmail.com>
+Date:   Wed Apr 17 21:16:01 2019 +0530
+
+    Rename alpha.c to prgrm58.c
+
+[33mcommit b4307025c12caf0dda4f43db84521bbbcbf18dd4[m
+Author: smat8097 <syedtalha5314@gmail.com>
+Date:   Wed Apr 17 21:08:18 2019 +0530
+
+    =First Commit
