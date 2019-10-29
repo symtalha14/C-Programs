@@ -18,6 +18,7 @@ int main(){
     //cumulative counts
     for(j=1;j<16;j++){
         c[j]=c[j]+c[j-1];
+        printf("%d\n",c[j]);
     }
     
     for(j=0;j<8;j++){
