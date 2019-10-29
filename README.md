@@ -1,5 +1,4 @@
 # C-Programs
-All College Programs in C
 
-Programs 1-30
-Programs 45-50 and Program 58
+C-Data Structure & Algorithm <br>
+C-Sorting
