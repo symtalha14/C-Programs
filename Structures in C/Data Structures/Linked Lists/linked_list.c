@@ -12,7 +12,6 @@ int insert(nodePtr *fNode , int value);
 int delete(nodePtr *fNode , int value);
 int display(nodePtr fNode);
 
-
 int main(){
     nodePtr firstNode = NULL;
     insert(&firstNode , 30);
@@ -38,24 +37,17 @@ int insert(nodePtr *fNode , int value){
         //For sorted insertion into linked list
         while(currentNode!=NULL && value>currentNode->data){
             prevNode = currentNode;
-            currentNode=currentNode->nPtr;
-        }
+            currentNode=currentNode->nPtr;}
         
         //for insertion at beginning of list
         if(prevNode==NULL){
             newNode->nPtr = *fNode;        
-            *fNode = newNode;
-        }
+            *fNode = newNode;}
         else{
             //for insertion between first and previous node
         prevNode->nPtr = newNode;
-        newNode->nPtr = currentNode;
-        }
-    }else{
-        puts("No More Memory available");
-    }
-
-}
+        newNode->nPtr = currentNode;} }else{
+        puts("No More Memory available"); } }
 
 int delete(nodePtr *fNode , int value){
     nodePtr currentNode;
@@ -78,17 +70,11 @@ int delete(nodePtr *fNode , int value){
         if(currentNode!=NULL){
             tempNode=currentNode;
             prevNode->nPtr = currentNode->nPtr;
-            free(tempNode);
-        }
-    }
-
-    return 0;
-}
+            free(tempNode);} }
+    return 0; }
 
 int display(nodePtr fNode){
     puts("Linked List:");
     while(fNode!=NULL){
         printf("%d\n" ,fNode->data);
-        fNode=fNode->nPtr;
-    }
-}
+        fNode=fNode->nPtr; } }
